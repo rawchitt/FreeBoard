@@ -1,0 +1,5 @@
+START_FREEBOARD.bat
+START_FREEBOARD_NODE.bat
+DEPLOYMENT.md
+.git
+node_modules
